@@ -1,0 +1,34 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+*.log
+logs
+
+# Environment files
+.env
+
+# Build output
+/dist
+/build
+
+# Dependency directories
+/coverage
+
+# IDE or Editor directories
+/.vscode
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# npm debug files
+npm-debug.log*
+
+# Yarn.lock files (if using npm instead of Yarn)
+yarn-error.log
+
+# Other
+/.eslintcache
+/.next
